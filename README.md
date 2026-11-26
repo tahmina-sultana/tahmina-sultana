@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Tahmina Sultana! 👋
 
-<!--
-**tahmina-sultana/tahmina-sultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a student at **IUBAT (International University of Business Agriculture and Technology)**, passionate about exploring the world of technology, programming, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👩‍💻 About Me
+- 🎓 Studying at **IUBAT**, Dhaka, Bangladesh
+- 🌱 Currently learning **Web Development** and core programming concepts
+- 💻 Working on building personal projects and improving my coding skills
+- 🌐 Check out my portfolio: [tahmina-sultana.github.io](https://github.io)
+
+
+### 🛠️ Languages & Tools
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![C](https://shields.io)
+![GitHub](https://shields.io)
+![VS Code](https://shields.io)
+
+
+### 📫 How to reach me
+- 📧 Email: **26203205@iubat.edu**
+
+
+---
+⭐️ *"Exploring the World of Technology, one line of code at a time."*
