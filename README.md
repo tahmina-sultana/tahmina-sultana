@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I am a student at **IUBAT (International Universit
 
 
 ### 🛠️ Languages & Tools
--**Languages:** HTML5, CSS3, C
--**Tools:** Git, GitHub, VS Code
+- **Languages:** HTML5, CSS3, C
+- **Tools:** Git, GitHub, VS Code
 ![GitHub](https://shields.io)
 ![VS Code](https://shields.io)
 
