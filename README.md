@@ -8,13 +8,12 @@ Welcome to my GitHub profile! I am a student at **IUBAT (International Universit
 - 🎓 Studying at **IUBAT**, Dhaka, Bangladesh
 - 🌱 Currently learning **Web Development** and core programming concepts
 - 💻 Working on building personal projects and improving my coding skills
-- 🌐 Check out my portfolio: [tahmina-sultana.github.io](https://github.io)
+- 🌐 Check out my portfolio: [tahmina-sultana.github.io](https://tahmina-sultana.github.io)
 
 
 ### 🛠️ Languages & Tools
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![C](https://shields.io)
+-**Languages:** HTML5, CSS3, C
+-**Tools:** Git, GitHub, VS Code
 ![GitHub](https://shields.io)
 ![VS Code](https://shields.io)
 
